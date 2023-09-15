@@ -24,4 +24,8 @@ func main() {
 	fmt.Println("Challenge-3")
 	fmt.Println(spe.FindNeedle([]string{"red", "blue", "yellow", "black", "grey"}, "blue"))
 
+	// Challenge 4
+	fmt.Println("Challenge-4")
+	fmt.Println(spe.BlueOcean([]int{1, 2, 3, 4, 6, 10}, []int{1}))
+	fmt.Println(spe.BlueOcean([]int{1, 5, 5, 5, 5, 3}, []int{5}))
 }
