@@ -19,4 +19,9 @@ func main() {
 	fmt.Println(spe.FindParityOutlier([]int{2, 4, 0, 100, 4, 11, 2602, 36}))
 	fmt.Println(spe.FindParityOutlier([]int{160, 3, 1719, 19, 11, 13, -21}))
 	fmt.Println(spe.FindParityOutlier([]int{11, 13, 15, 19, 9, 13, -21}))
+
+	// Challenge 3
+	fmt.Println("Challenge-3")
+	fmt.Println(spe.FindNeedle([]string{"red", "blue", "yellow", "black", "grey"}, "blue"))
+
 }
