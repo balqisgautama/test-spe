@@ -1,1 +1,1 @@
-# test-spe
+In this repository, there are four challenges: **Narcissistic Number**, **Parity Outlier**, **Needle in a Haystack**, and **The Blue Ocean Reverse**. These challenges have been implemented in separate files within the "challenge" folder, with each function coded as a method inside a single class called SpeSkillTest with a public access identifier and declared as static.
